@@ -1,0 +1,13 @@
+.devicon-4x {
+  font-size: 4em;
+  padding: 20px;
+}
+
+.devicon-4x > label {
+  font-size: 1em;
+}
+
+.icon-list {
+  display: flex;
+  justify-content: flex-start;
+}
